@@ -1,0 +1,17 @@
+{
+  "id": "46432686",
+  "company": "BASELINKER SRL",
+  "brand": "Base.com",
+  "status": "activ",
+  "location": [
+    "București"
+  ],
+  "website": [
+    "https://base.com"
+  ],
+  "career": [
+    "https://apply.workable.com/base-com/"
+  ],
+  "scraperFile": "https://github.com/amaliatanase/base-com-python-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://apply.workable.com/j/"
+}
